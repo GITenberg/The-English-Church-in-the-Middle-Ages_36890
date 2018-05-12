@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6863'
     url: http://www.gutenberg.org/2009/agents/6863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36890#The-English-Church-in-the-Middle-Ages
 gutenberg_issued: '2011-07-30'
 gutenberg_type: Text
 identifiers:
