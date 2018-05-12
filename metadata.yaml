@@ -1,0 +1,27 @@
+_repo: The-English-Church-in-the-Middle-Ages_36890
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunt, William
+    birthdate: 1842
+    deathdate: 1931
+    gutenberg_agent_id: '6863'
+    url: http://www.gutenberg.org/2009/agents/6863
+description: ''
+gutenberg_issued: '2011-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36890'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcsh 'Great Britain -- Church history'
+- !lcc 'BR'
+title: The English Church in the Middle Ages
+url: http://www.gutenberg.org/ebooks/36890
